@@ -19,7 +19,7 @@ Each project demonstrates how raw data can be transformed into actionable busine
 
 ---
 
-## Project Overview
+### Project Overview
 
 **Objective**  
 Analyze retail sales data to identify revenue drivers, customer purchasing patterns, and opportunities to improve sales performance and customer experience.
@@ -37,7 +37,7 @@ Analyze retail sales data to identify revenue drivers, customer purchasing patte
 
 ---
 
-## Business Questions and Findings
+### Business Questions and Findings
 
 ### 1. Which product categories generate the highest total sales?
 Electronics is the highest revenue-generating category.  
@@ -67,25 +67,25 @@ While revenue remains relatively consistent across the 20–40 age range (approx
 
 ### 5. What insights can improve sales or customer experience?
 
-**A. Seasonal Performance**
-- Insight: May is the highest-performing month, while September has the lowest sales.
-- Action: Replicate strategies used in May and introduce targeted promotions such as back-to-business or end-of-summer campaigns.
+  A. Seasonal Performance
+  - Insight: May is the highest-performing month, while September has the lowest sales.
+  - Action: Replicate strategies used in May and introduce targeted promotions such as back-to-business or end-of-summer campaigns.
 
-**B. High-Value Customers (Age 50+)**
-- Insight: Customers aged 50+ are the highest spenders.
-- Action: Tailor marketing efforts, loyalty programs, and premium offerings to increase retention and lifetime value.
+  B. High-Value Customers (Age 50+)
+  - Insight: Customers aged 50+ are the highest spenders.
+  - Action: Tailor marketing efforts, loyalty programs, and premium offerings to increase retention and lifetime value.
 
-**C. Category Cross-Selling Opportunities**
-- Insight: Electronics and Clothing are the two top-performing categories.
-- Action: Test bundled promotions such as wearable technology paired with fitness apparel.
+  C. Category Cross-Selling Opportunities
+  - Insight: Electronics and Clothing are the two top-performing categories.
+  - Action: Test bundled promotions such as wearable technology paired with fitness apparel.
 
-**D. Gender-Neutral Marketing**
-- Insight: Spending is nearly evenly split between genders.
-- Action: Focus on interest-based segmentation rather than gender-specific messaging.
+  D. Gender-Neutral Marketing
+  - Insight: Spending is nearly evenly split between genders.
+  - Action: Focus on interest-based segmentation rather than gender-specific messaging.
 
 ---
 
-## Skills Demonstrated
+### Skills Demonstrated
 
 - Data cleaning and preparation
 - Pivot table analysis
