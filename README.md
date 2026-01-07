@@ -7,8 +7,9 @@ The projects contained within demonstrate a range of skills crucial for transfor
 - Projects
   - [Retail Sales and Customer Insights Analysis](#retail-sales-and-customer-insights-analysis)
 
+                            
 ## Projects
-### - Retail Sales and Customer Insights Analysis
+### - Retail Sales & Customer Insights Analysis
 
 <img width="2242" height="1372" alt="image" src="https://github.com/user-attachments/assets/a27b1446-544c-4d48-9d48-c571c65ad969" />
 
@@ -42,6 +43,49 @@ Business questions
     D. Gender-Neutral Marketing Strategy
         Insight: With a nearly 50/50 split in spending between genders, your brand has successfully achieved "unisex" appeal.
         Action : Avoid overly gendered marketing that might alienate half your audience. Instead, focus on interest-based segmentation (e.g., tech enthusiasts, fashion-forward shoppers) to maximize reach.
+
+
+
+### - Retail Sales  Customer Insights Analysis
+
+<img width="2242" height="1372" alt="image" src="https://github.com/user-attachments/assets/a27b1446-544c-4d48-9d48-c571c65ad969" />
+
+
+Business questions  
+1) Which product categories generate the highest total sales?  
+  Electronics is the highest revenue-generating category, contributing the largest share of total sales. This suggests that prioritizing inventory availability and promotions in Electronics could have a strong impact on overall revenue.
+
+
+### - Retail Sales  Customer Insights Analysis
+
+<img width="2242" height="1372" alt="image" src="https://github.com/user-attachments/assets/a27b1446-544c-4d48-9d48-c571c65ad969" />
+
+
+Business questions  
+1) Which product categories generate the highest total sales?  
+  Electronics is the highest revenue-generating category, contributing the largest share of total sales. This suggests that prioritizing inventory availability and promotions in Electronics could have a strong impact on overall revenue.
+
+
+### - Retail Sales  Customer Insights Analysis
+
+<img width="2242" height="1372" alt="image" src="https://github.com/user-attachments/assets/a27b1446-544c-4d48-9d48-c571c65ad969" />
+
+
+Business questions  
+1) Which product categories generate the highest total sales?  
+  Electronics is the highest revenue-generating category, contributing the largest share of total sales. This suggests that prioritizing inventory availability and promotions in Electronics could have a strong impact on overall revenue.
+
+
+### - Retail Sales and Customer Insights Analysis
+
+<img width="2242" height="1372" alt="image" src="https://github.com/user-attachments/assets/a27b1446-544c-4d48-9d48-c571c65ad969" />
+
+
+Business questions  
+1) Which product categories generate the highest total sales?  
+  Electronics is the highest revenue-generating category, contributing the largest share of total sales. This suggests that prioritizing inventory availability and promotions in Electronics could have a strong impact on overall revenue.
+
+
     
     E. Customer Experience Improvement  
         Insight: Since Beauty lags slightly behind, this may be an area for "experiential" growth.
