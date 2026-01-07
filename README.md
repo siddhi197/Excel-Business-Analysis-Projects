@@ -5,10 +5,10 @@ The projects contained within demonstrate a range of skills crucial for transfor
 
 ## Table of Contents
 - Projects
-  - [Retail Sales & Customer Insights Analysis](#retail-sales-customer-insights-analysis)
+  - [Retail Sales & Customer Insights Analysis](#retail-sales-and-customer-insights-analysis)
 
 ## Projects
-### - Retail Sales & Customer Insights Analysis
+### - Retail Sales and Customer Insights Analysis
 
 <img width="2242" height="1372" alt="image" src="https://github.com/user-attachments/assets/a27b1446-544c-4d48-9d48-c571c65ad969" />
 
