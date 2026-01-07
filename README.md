@@ -4,6 +4,12 @@ This repository serves as a centralized portfolio showcasing business analysis p
 Each project demonstrates how raw data can be transformed into actionable business insights to support decision-making.
 
 ---
+## Table of Contents
+
+- [Projects](#projects)
+  - [Retail Sales and Customer Insights Analysis](#retail-sales-and-customer-insights-analysis)
+
+---
 
 ## Projects
 
