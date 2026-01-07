@@ -7,7 +7,6 @@ The projects contained within demonstrate a range of skills crucial for transfor
 - Projects
   - [Retail Sales & Customer Insights Analysis](#retail-sales-&-customer-insights-analysis)
 
-
 ## Projects
 ### - Retail Sales & Customer Insights Analysis
 
