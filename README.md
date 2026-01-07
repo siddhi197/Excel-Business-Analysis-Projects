@@ -5,7 +5,7 @@ The projects contained within demonstrate a range of skills crucial for transfor
 
 ## Table of Contents
 - Projects
-  - [Retail Sales & Customer Insights Analysis](#retail-sales-and-customer-insights-analysis)
+  - [Retail Sales and Customer Insights Analysis](#retail-sales-and-customer-insights-analysis)
 
 ## Projects
 ### - Retail Sales and Customer Insights Analysis
