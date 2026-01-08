@@ -1,25 +1,102 @@
-# Excel Business Analysis Projects
+# 📊 Excel Business Analysis Projects
 
-This repository serves as a centralized portfolio showcasing business analysis projects created using Microsoft Excel.  
-Each project demonstrates how raw data can be transformed into actionable business insights to support decision-making.
+This repository is a centralized portfolio showcasing **business analysis projects built using Microsoft Excel**.  
+Each project demonstrates how raw data can be cleaned, analyzed, and transformed into **actionable business insights** that support informed decision-making.
 
 ---
-## Table of Contents
+
+## 📑 Table of Contents
 
 - [Projects](#projects)
-  - [Retail Sales and Customer Insights Analysis](#retail-sales-and-customer-insights-analysis)
+  - [Bike Sales Dashboard](#1-bike-sales-dashboard)
+  - [Retail Sales and Customer Insights Analysis](#2-retail-sales-and-customer-insights-analysis)
 
 ---
 
-## Projects
+## 📁 Projects
 
-### Retail Sales and Customer Insights Analysis
+---
+
+## 1️⃣ Bike Sales Dashboard
+
+<img width="883" height="643" alt="Bike Sales Dashboard" src="https://github.com/user-attachments/assets/dbd5fe5c-8f4d-46a2-82d5-e6b80244f78f" />
+
+### 📌 Project Overview
+This project analyzes bike sales data to understand how **customer demographics, income levels, and commute distance** influence purchasing behavior.  
+The goal is to identify **key customer segments** and generate insights that support **data-driven marketing and sales decisions**.
+
+The interactive dashboard allows users to explore trends using filters such as **region, marital status, and education level**.
+
+---
+
+### 🧹 Data Cleaning & Preparation
+Before analysis, the dataset was cleaned and standardized to ensure consistency and accuracy:
+
+- Standardized gender values (`M`, `F`) to **Male** and **Female**
+- Standardized marital status values to **Married** and **Single**
+- Created **Age Brackets** for demographic segmentation:
+  - **Adolescent:** Age < 31  
+  - **Middle Age:** Age 31–53  
+  - **Old:** Age 54+  
+
+
+**Excel formula used to create age brackets:**
+```excel
+=IF(L2 < 31, "Adolescent", IF(L2 < 54, "Middle Age", "Old"))
+```
+
+### 📊 Key Insights from the Dashboard
+
+#### 1️⃣ Income & Purchase Behavior
+- Customers who purchased bikes (**Yes**) have a higher average income than those who did not.
+- Male customers show a higher average income per purchase compared to female customers.
+
+**Business Insight:**  
+Higher-income customers are more likely to purchase bikes. Marketing strategies focused on professionals and higher-income households could improve conversion rates and overall sales performance.
+
+---
+
+#### 2️⃣ Customer Age Bracket Analysis
+- Middle-aged customers represent the largest group of bike purchasers.
+- Adolescent and older age groups show lower purchase counts.
+
+**Business Insight:**  
+Middle-aged customers are the most engaged and valuable segment. Tailored promotions and targeted messaging for this group could maximize sales impact.
+
+---
+
+#### 3️⃣ Commute Distance & Buying Patterns
+- Customers with short commute distances (**0–1 miles**) show the highest number of bike purchases.
+- Purchase likelihood decreases as commute distance increases, particularly beyond **10 miles**.
+
+**Business Insight:**  
+Bikes are most appealing to short-distance commuters. Marketing campaigns emphasizing convenience, fitness, and short daily commutes may increase customer engagement and sales.
+
+---
+
+#### 4️⃣ Demographic & Regional Filtering
+- Filters for **region, marital status, and education level** reveal variations in purchasing behavior.
+- These variations highlight the importance of demographic-based segmentation.
+
+**Business Insight:**  
+Region-specific and demographic-focused marketing strategies can help align products and messaging with customer needs.
+
+---
+
+### 📈 Conclusion
+This dashboard demonstrates how sales and customer data can be transformed into **actionable insights** using data cleaning, segmentation, and visualization techniques.  
+The analysis supports **data-driven decision-making** by identifying high-value customer segments and opportunities to optimize marketing strategies.
+
+---
+
+
+## 2. Retail Sales and Customer Insights Analysis
 
 ![Retail sales dashboard showing revenue trends, product categories, and customer demographics](https://github.com/user-attachments/assets/a27b1446-544c-4d48-9d48-c571c65ad969)
 
 ---
 
-### Project Overview
+### 📌 Project Overview
 
 **Objective**  
 Analyze retail sales data to identify revenue drivers, customer purchasing patterns, and opportunities to improve sales performance and customer experience.
