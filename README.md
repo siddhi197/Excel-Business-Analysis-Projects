@@ -7,8 +7,8 @@ Each project demonstrates how raw data can be cleaned, analyzed, and transformed
 
 ## 📑 Table of Contents
 
-- [Projects](#projects)
-  - [Bike Sales Dashboard](#bike-sales-dashboard)
+- [Projects](#📁-projects)
+  - [Bike Sales Dashboard](#1-bike-sales-dashboard)
   - [Retail Sales and Customer Insights Analysis](#2-retail-sales-and-customer-insights-analysis)
 
 ---
