@@ -17,7 +17,7 @@ Each project demonstrates how raw data can be cleaned, analyzed, and transformed
 
 ---
 
-## 1. Bike Sales Dashboard
+## Bike Sales Dashboard
 
 <img width="883" height="643" alt="Bike Sales Dashboard" src="https://github.com/user-attachments/assets/dbd5fe5c-8f4d-46a2-82d5-e6b80244f78f" />
 
